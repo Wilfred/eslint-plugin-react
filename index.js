@@ -96,6 +96,7 @@ module.exports = {
         'react/jsx-uses-react': 2,
         'react/jsx-uses-vars': 2,
         'react/no-deprecated': 2,
+        'react/no-duplicated-props': 2,
         'react/no-direct-mutation-state': 2,
         'react/no-find-dom-node': 2,
         'react/no-is-mounted': 2,
